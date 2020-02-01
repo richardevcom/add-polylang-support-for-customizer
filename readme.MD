@@ -9,6 +9,17 @@ This plugin adds Polylang support for WordPress Customizer.
 * Language switcher in Customizer.
 * Localized theme_mods and options for both default and custom made Customizer values.
 
+## Prerequisite
+
+1. Polylang must be installed and activated.
+2. Languages must be set in **Admin > Languages**.
+3. _If you have a static front page_:
+	1. _Create a front page per each language._
+	2. _Select the front page in **Admin > Settings > Reading** per language._
+5. Expect customizer to use setting type = `theme_mod` (default) as in:
+
+`$wp_customize->add_setting( 'setting_id', [ 'type' => 'theme_mod', ] );`
+
 ## Installation
 
 This plugin can be installed directly into your plugins folder "as-is"<br/>
