@@ -3,6 +3,7 @@
 
 This plugin adds Polylang support for WordPress Customizer.
 
+![banner](https://ps.w.org/add-polylang-support-for-customizer/assets/banner-772x250.png)
 ## Features
 
 * Language switcher in Customizer.
