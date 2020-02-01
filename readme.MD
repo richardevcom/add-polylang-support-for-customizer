@@ -1,3 +1,4 @@
+![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/add-polylang-support-for-customizer?label=Plugin%20Version&style=social)
 # Add Polylang support for Customizer
 
 This plugin adds Polylang support for WordPress Customizer.
