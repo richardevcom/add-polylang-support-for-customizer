@@ -23,7 +23,9 @@ This plugin adds Polylang support for WordPress Customizer.
 ## Installation
 
 This plugin can be installed directly into your plugins folder "as-is"<br/>
-or if you go to **Admin panel > Plugins > Add new > Upload Plugin** and select the archive containing this plugin.
+or:
+- go to **Plugins > Add new** and type in Search `Add Polylang support for Customizer` and click **Install** and then **Activate** buttons.
+- if you go to **Admin panel > Plugins > Add new > Upload Plugin** and select the archive containing this plugin.
 
 It's safe to activate the plugin at this point. Because the plugin just injects some functionality - there will be no plugin menus or settings to play with.
 License
