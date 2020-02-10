@@ -1,5 +1,6 @@
 ![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/add-polylang-support-for-customizer?label=Plugin%20Version&style=social) ![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dy/add-polylang-support-for-customizer?style=social)
-# Add Polylang support for Customizer
+
+# Add Polylang support for Customizer [![Download](https://i.imgur.com/FyDKndG.png)](https://wordpress.org/plugins/add-polylang-support-for-customizer/)
 
 This plugin adds Polylang support for WordPress Customizer.
 
