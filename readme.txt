@@ -1,9 +1,9 @@
 === Add Polylang support for Customizer ===
 Contributors: richardevcom,pers
-Tags: add,polylang,language,dropdown,support,functionality,for,wordpress,customizer,
+Tags: polylang,customizer,support,translate,wordpress
 Donate link: paypal.me/ricardsmucelans
 Requires at least: 4.7
-Tested up to: 5.3.2
+Tested up to: 5.4
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPL-2.0+
@@ -75,3 +75,5 @@ or if you go to Admin panel > Plugins > Add new > Upload Plugin and select the a
 == Changelog ==
 = 1.0.1 =
 * First release
+= 1.0.2 =
+* Fixed issues with option rewriting and polylang translatable strings.

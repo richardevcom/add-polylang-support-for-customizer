@@ -72,7 +72,7 @@ class Apsfc {
     /**
      * Load plugin textdomain.
      *
-     * @since 1.0.0
+     * @since 1.0.2
      */
     public function pc_load_textdomain() {
         load_plugin_textdomain( 'apsfc', false, basename( dirname( __FILE__ ) ) . '/languages' ); 

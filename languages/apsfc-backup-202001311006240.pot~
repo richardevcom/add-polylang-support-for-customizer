@@ -1,0 +1,40 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Add Polylang support for Customizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-30 21:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. URI of the plugin
+msgid "https://github.com/richardevcom/add-polylang-support-for-customizer"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://richardev.com"
+msgstr ""
+
+#: includes/class-apsfc.php:277
+msgid "Language"
+msgstr ""
+
+#. Name of the plugin
+msgid "Polylang support for Customizer"
+msgstr ""
+
+#. Author of the plugin
+msgid "richardev"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin adds Polylang support for Customizer."
+msgstr ""
