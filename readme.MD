@@ -9,6 +9,7 @@ This plugin adds Polylang support for WordPress Customizer.
 
 * Language switcher in Customizer.
 * Localized theme_mods and options for both default and custom made Customizer values.
+* Enable/disable forcing *“The language is set from content”* setting in `Language` > `Settings` > `URL modifications`
 
 ## Prerequisite
 
