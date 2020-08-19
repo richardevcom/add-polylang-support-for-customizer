@@ -13,7 +13,7 @@ This plugin adds Polylang support for WordPress Customizer.
 
 ## Prerequisite
 
-** Doesn't work with Divi theme! **
+**Doesn't work with Divi theme!**
 1. Polylang must be installed and activated.
 2. Languages must be set in **Admin > Languages**.
 3. _If you have a static front page_:
