@@ -96,7 +96,9 @@ or if you go to Admin panel > Plugins > Add new > Upload Plugin and select the a
 * fixed API.php location error for multisites.
 = 1.3.3 =
 * Changed how API.php is included.
-= 1.3.5 =
+= 1.3.4 =
 * Added Polylang PRO dir check
 = 1.3.5 =
+* Added Polylang PRO dir check
+= 1.3.6 =
 * Added Polylang PRO dir check

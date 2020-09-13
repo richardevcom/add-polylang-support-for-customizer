@@ -81,10 +81,13 @@ class Apsfc {
 	 */
 	private function __construct() {
 		if ( !function_exists( 'pll_current_language' ) ) {
-			$poly_dir = WP_PLUGIN_DIR . '/polylang';
-			if(!file_exists($poly_dir)) $poly_dir .= '-pro';
-			if(!file_exists($poly_dir) . '/include/api.php') $poly_dir = WP_PLUGIN_DIR . 'polylang-pro/vendor/wpsyntex/polylang';
-			require $poly_dir . '/include/api.php';
+			$poly_file = WP_PLUGIN_DIR . '/polylang/include/api.php';
+			if(!file_exists($poly_file)){
+				$poly_file = WP_PLUGIN_DIR . '/polylang-pro/include/api.php';
+				if(!file_exists($poly_file)) $poly_file = WP_PLUGIN_DIR . '/polylang-pro/vendor/wpsyntex/polylang/include/api.php';
+			}
+
+			require $poly_file;
 			if(!isset($GLOBALS['polylang'])) $GLOBALS['polylang'] = null;
 		}
 		/**
