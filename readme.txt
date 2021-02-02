@@ -3,7 +3,7 @@ Contributors: richardevcom,pers
 Tags: polylang,customizer,support,translate,wordpress
 Donate link: paypal.me/ricardsmucelans
 Requires at least: 4.7
-Tested up to: 5.5
+Tested up to: 5.6
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPL-2.0+
@@ -102,3 +102,5 @@ or if you go to Admin panel > Plugins > Add new > Upload Plugin and select the a
 * Added Polylang PRO dir check
 = 1.3.6 =
 * Added Polylang PRO dir check
+= 1.3.7 =
+* Fixed no language selection issue on customizer.
