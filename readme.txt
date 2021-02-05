@@ -104,3 +104,5 @@ or if you go to Admin panel > Plugins > Add new > Upload Plugin and select the a
 * Added Polylang PRO dir check
 = 1.3.7 =
 * Fixed no language selection issue on customizer.
+= 1.3.8 =
+* Fixed no language selection issue on customizer.
