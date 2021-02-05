@@ -276,14 +276,15 @@ class Apsfc {
 	 */
 	public function add_lang_to_customizer_previewer() {
 		$language = ( empty( $_REQUEST['lang'] ) ) ? pll_current_language() : $_REQUEST['lang'];
+		if(empty($language)) $language = pll_default_language();
 
-		if(is_customize_preview() && !isset($_REQUEST['lang'])) {
+		if(is_customize_preview() && (!isset($_REQUEST['lang']) || $_REQUEST['lang'] == 'all' || empty($_REQUEST['lang']))) {
 			$url = get_admin_url() . 'customize.php?lang=' . $language; // EDIT this to your needs
 			wp_safe_redirect( $url );
 			var_dump($url);
             exit();
 		}
-		
+
 		$handle    = 'dss-add-lang-to-template';
 		$src       = plugin_dir_url( dirname(__FILE__) ) . 'assets/js/apsfc.js';
 		$deps      = [ 'customize-controls' ];
