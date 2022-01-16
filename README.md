@@ -40,8 +40,6 @@ or:
 It's safe to activate the plugin at this point. Because the plugin just injects some functionality - there will be no plugin menus or settings to play with.
 License
 
-## Important Notes
-
 ### Licensing
 
 This plugin is licensed under the GPL v2 or later; however, if you opt to use third-party code that is not compatible with v2, then you may need to switch to using code that is GPL v3 compatible.
