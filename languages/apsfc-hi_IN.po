@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Add Polylang support for Customizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-14 17:12+0000\n"
+"PO-Revision-Date: 2020-05-14 17:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: includes/class-apsfc.php:294
+msgid "Language"
+msgstr "भाषा: हिन्दी"
+
+#. Third party plugin Slug
+#: includes/class-settings.php:31 includes/class-settings.php:32
+msgid "Customizer Support"
+msgstr "कस्टमाइज़र का समर्थन"
+
+#: includes/class-settings.php:56
+msgid "Customizer Support Settings"
+msgstr "Customizer समर्थन सेटिंग्स"
+
+#: includes/class-settings.php:66
+msgid "Language setup"
+msgstr "भाषा सेटअप"
+
+#. Name of the plugin
+msgid "Add Polylang support for Customizer"
+msgstr "Customizer के लिए Polylang समर्थन जोड़ें"
+
+#. Description of the plugin
+msgid "This plugin adds Polylang support for Customizer."
+msgstr "यह प्लगइन Customizer के लिए Polylang समर्थन जोड़ता है।"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/add-polylang-support-for-customizer"
+msgstr ""
+
+#. Author of the plugin
+msgid "richardev"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://richardev.com"
+msgstr ""
