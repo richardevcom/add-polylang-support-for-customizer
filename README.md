@@ -1,3 +1,4 @@
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
 ![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/add-polylang-support-for-customizer?label=Plugin%20Version&style=social) ![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dy/add-polylang-support-for-customizer?style=social)
 [![PHP compatibility](https://plugintests.com/plugins/wporg/add-polylang-support-for-customizer/php-badge.svg)](https://plugintests.com/plugins/wporg/add-polylang-support-for-customizer/latest)
 [![WP compatibility](https://plugintests.com/plugins/wporg/add-polylang-support-for-customizer/wp-badge.svg)](https://plugintests.com/plugins/wporg/add-polylang-support-for-customizer/latest)
